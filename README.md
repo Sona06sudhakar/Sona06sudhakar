@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sona06sudhakar
-- 👀 I’m interested in pursuing computer science 
-- 🌱 I’m currently studying in 11th grade
+- 👀 I’m currently studying B.Tech CSE in NIT Surat.
+- 
 - 💞️ I want to learn more about this course
 
 <!---
